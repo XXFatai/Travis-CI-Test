@@ -1,4 +1,3 @@
 lanauage:java
 jdk:
-  -openjdk6
   -oraclejdk8
